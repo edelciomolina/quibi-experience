@@ -13,6 +13,11 @@ In summary, technically what calls our attention is the possibility of watching 
 ## The challenge
 The first Commit of this Repository was born from the principle that we have one or two players running in parallel, where each one has its individual video where these have the same duration and are synchronized. *(This may not be the ideal path, but we will find out throughout this project)*
 
+### Take a look *(Click to see)*...<br>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/j1jZYLMBZcY/0.jpg)](https://www.youtube.com/watch?v=j1jZYLMBZcY)
+ 
+
+
 As a challenge, we will follow by 5 main premises:
 - [ ] You should only use HTML, CSS and JAVASCRIPT (Back or Front)
 - [ ] Enable the user to select 2 distinct videos (Vertical and Horizontal)
