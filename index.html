@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <link href="https://vjs.zencdn.net/7.6.6/video-js.css" rel="stylesheet" />
+    <link
+      href="https://unpkg.com/@videojs/themes@1/dist/forest/index.css"
+      rel="stylesheet"
+    />
+    <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <div id="vertical-div" class="players">
+      <video id="vertical-video" preload class="video-js">
+        <source src="media/reik-vertical.mp4" type="video/mp4" />
+      </video>
+    </div>
+    <div id="horizontal-div" class="players">
+      <video id="horizontal-video" preload class="video-js vjs-16-9">
+        <source src="media/reik-horizontal.mp4" type="video/mp4" />
+      </video>
+    </div>
+    <script src="https://vjs.zencdn.net/7.6.6/video.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>
