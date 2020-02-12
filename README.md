@@ -15,10 +15,11 @@ The first Commit of this Repository was born from the principle that we have one
 
 ### Take a look *(Click to see)*...<br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/j1jZYLMBZcY/0.jpg)](https://www.youtube.com/watch?v=j1jZYLMBZcY)
- 
+> **For that first commit**, you just have to open the Console and call the function `start()`;
+<br>
+<br>
 
-
-As a challenge, we will follow by 5 main premises:
+#### As a challenge, we will follow by 5 main premises:
 - [ ] You should only use HTML, CSS and JAVASCRIPT (Back or Front)
 - [ ] Enable the user to select 2 distinct videos (Vertical and Horizontal)
 - [ ] Enable the user to define whether the main audio will be, from one or both videos
